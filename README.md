@@ -2,12 +2,12 @@
 
 Markdown template for Architecture Decision Records (ADRs).
 
-Use guidelines:
+Usage guidelines:
  - Each ADR is a plain text, 1-2 page document
  - ADRs should be numbered
- - ADRs should be stored within each project repo
+ - ADRs should be stored within each software project repo
  - Create a separate repo for crosscutting ADRs
- - This template is an example. You can adapt or create your own. But do establish and share a template for ADRs
+ - This template is an example. You can adapt or create your own. But do establish and share a template for ADRs in your team or organization
  - Track ADRs in the backlog
  - Review ADRs
  - Create ADRs for *significant* design decisions
