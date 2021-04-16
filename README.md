@@ -7,16 +7,27 @@ Markdown template for Architecture Decision Records (ADRs).
  - ADRs should be numbered
  - ADRs should be stored within each software project repo
  - Create a separate repo for crosscutting ADRs
- - This template is an example. You can adapt or create your own. But do establish and share a template for ADRs in your team or organization
  - Track ADRs in the backlog
  - Review ADRs
  - Create ADRs for *significant* design decisions
+ - This template is a suggestion that you may want to adopt or adapt. In any case, establishing and sharing a template for ADRs in your team or organization is a good idea.
 
+### Examples of ADRs using this template
+ - [Use of the BFF pattern](https://github.com/miyagis-forests/farmacy-food-kata/blob/main/ADRs/ADR003-bff-pattern.md)
+ - [Use CQRS](https://github.com/miyagis-forests/farmacy-food-kata/blob/main/ADRs/ADR005-cqrs-pattern.md)
+ - [Use AWS as cloud provider](https://github.com/miyagis-forests/farmacy-food-kata/blob/main/ADRs/ADR006-aws-as-cloud-provider.md)
+ - [Use Payment Gateway in self-hosted mode](https://github.com/miyagis-forests/farmacy-food-kata/blob/main/ADRs/ADR002-payment-gateway.md)
+ - [Use the Wrapper pattern](https://github.com/miyagis-forests/farmacy-food-kata/blob/main/ADRs/ADR004-wrapper-pattern.md)
+
+(These examples are project-specific, of course. The decision and rationale make sense in that project's context.) 
+ 
 ### References
 This template is based on: 
  - [Documenting Architecture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions). Blog post by Michael Nygard, 2011.
  - [Architecture Decision Records in Action](https://saturn2017.sched.com/event/9k2y/architecture-decision-records-in-action). SATURN 2017 presentation by Michael Keeling and Joe Runde.
-
+ 
+See also this [post and conference presentation by Ken Power](https://kenpower.ie/2021/02/10/architecture-decision-records-being-agile-with-architecture-decisions/).  
+ 
 ### Why this template?
 - This template addresses a subtle yet fundamental deficiency of the [ADR structure originally proposed by Michael Nygard]((http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)):  
 his proposed structure (Context; Decision; Status; Consequences) has no evident placeholder for the **rationale** 
