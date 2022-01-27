@@ -1,6 +1,10 @@
 # ADR-template
 
-Markdown template for Architecture Decision Records (ADRs).
+Markdown template for Architecture Decision Records (ADRs). Here's the template...
+ - [Template in English](ADR-template.md)
+ - [Template in Spanish](ADR-template_es-ES.md)
+ - [Template in Chinese](ADR-template_zh-CN.md)
+ - [Template in Portuguese](ADR-template_pt-BR.md)
 
 ### Usage guidelines 
  - Each ADR is a plain text, 1-2 page document
