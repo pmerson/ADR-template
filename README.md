@@ -1,4 +1,4 @@
-# ADR-template
+# ADR template
 
 Markdown template for Architecture Decision Records (ADRs). Here's the template...
  - [Template in English](ADR-template.md)
