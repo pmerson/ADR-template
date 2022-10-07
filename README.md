@@ -30,7 +30,7 @@ This template is based on:
  - [Documenting Architecture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions). Blog post by Michael Nygard, 2011.
  - [Architecture Decision Records in Action](https://saturn2017.sched.com/event/9k2y/architecture-decision-records-in-action). SATURN 2017 presentation by Michael Keeling and Joe Runde.
  
-See also this [post and conference presentation by Ken Power](https://kenpower.ie/2021/02/10/architecture-decision-records-being-agile-with-architecture-decisions/).  
+See also this [presentation by Ken Power at OOP](https://powerken.files.wordpress.com/2021/02/ken-power.oop-2021.adrs_.pdf).  
  
 ### Why this template?
 - This template addresses a subtle yet fundamental deficiency of the [ADR structure originally proposed by Michael Nygard]((http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)):  
