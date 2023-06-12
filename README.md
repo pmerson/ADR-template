@@ -47,3 +47,28 @@ template for at least three reasons:
 - We say in our book "Record Rationale" is *Rule 5* of the *Seven Rules for Sound Documentation* ([Documenting Software Architectures, Second Edition](https://www.informit.com/store/documenting-software-architectures-views-and-beyond-9780321552686)).
 - George Fairbanks proposed *[Architecture Haiku](https://www.slideshare.net/matthewmccullough/architecture-haiku)*, 
 which can be seen as an alternative approach to ADR. Haiku contents includes "design rationales". 
+
+### License
+
+MIT License
+
+Copyright (c) 2023 Paulo Merson
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
